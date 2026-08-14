@@ -26,3 +26,6 @@ Estudante de Ciência da Computação (FIAP, ProUni 100%), com foco em back-end 
 
 ## Contato
 [LinkedIn](https://linkedin.com/in/matheusborgessoares/)
+
+![snake gif](https://raw.githubusercontent.com/Matheusbg1903/Matheusbg1903/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://raw.githubusercontent.com/Matheusbg1903/Matheusbg1903/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
