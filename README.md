@@ -29,7 +29,6 @@ Programa em C que monitora os módulos energéticos de uma nave experimental, co
 Estudando agora: **Java** para back-end.
 
 ## Contato
-
 [LinkedIn](https://www.linkedin.com/in/matheusborgessoares/)
 
 ![snake gif](https://raw.githubusercontent.com/Matheusbg1903/Matheusbg1903/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
