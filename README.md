@@ -1,6 +1,6 @@
 # Matheus Borges Soares
 
-Estudante de Ciência da Computação na FIAP (bolsa integral ProUni) e Auxiliar de PCP em uma indústria de plásticos em São Paulo. Busco estágio em **Engenharia de Dados**, com Python e SQL.
+Estudante de Ciência da Computação na FIAP (bolsa integral ProUni) e Auxiliar de PCP em uma indústria de plásticos em São Paulo. Busco estágio em **dados**, com foco em engenharia de dados, usando Python e SQL.
 
 Comecei a programar resolvendo problemas reais da fábrica, onde trabalho com informações de produção e estoque no dia a dia. Meu caminho: dados com foco em engenharia agora, IA aplicada como evolução.
 
