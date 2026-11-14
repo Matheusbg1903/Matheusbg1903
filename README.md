@@ -1,8 +1,8 @@
 # Matheus Borges Soares
 
-Estudante de Ciência da Computação na FIAP (bolsa integral ProUni) e Auxiliar de PCP em uma indústria de plásticos em São Paulo. Busco estágio em Dados, com foco em Engenharia de Dados com Python e SQL.
+Estudante de Ciência da Computação na FIAP (bolsa integral ProUni) e Auxiliar de PCP em uma indústria de plásticos em São Paulo. Busco estágio em **Engenharia de Dados**, com Python e SQL.
 
-Comecei a programar resolvendo problemas reais da fábrica, onde trabalho com informações de produção e estoque no dia a dia.
+Comecei a programar resolvendo problemas reais da fábrica, onde trabalho com informações de produção e estoque no dia a dia. Meu caminho: dados com foco em engenharia agora, IA aplicada como evolução.
 
 ## Projetos em destaque
 
@@ -13,15 +13,20 @@ Aplicação desktop que gera a escala de cerca de 300 funcionários entre as má
 `Python` `SQLite` `CustomTkinter`
 
 **[Lançamentos de Produção (PCP)](https://github.com/Matheusbg1903/lancamentos-pcp)** · em uso na fábrica · desenvolvido com auxílio integral de IA
-App para registrar a produção pelo celular, com os dados enviados direto para a planilha, no lugar do fluxo papel → planilha → outra planilha. Minha parte: identificar o problema, definir os requisitos e validar o funcionamento. Resultados observados: menos tempo, menos erros e menos retrabalho nos lançamentos. O repositório usa apenas dados fictícios.
+App para registrar a produção pelo celular, que funciona offline e exporta os lançamentos em .xlsx no formato da planilha do PCP, no lugar do fluxo papel → planilha → outra planilha. Minha parte: identificar o problema, definir os requisitos e validar o funcionamento. Resultados observados: menos tempo, menos erros e menos retrabalho nos lançamentos.
+`JavaScript` `PWA` `SheetJS`
 
 ### Acadêmicos (FIAP)
 
-**[Mission Control AI](https://github.com/Matheusbg1903/mission-control-ia)** · Global Solution, grupo de 3
+**[Citizen Assist AI](https://github.com/Matheusbg1903/citizen-assist-ai)** · Global Solution 2026.2, grupo de 3
+Assistente em Python que orienta famílias de baixa renda sobre conta de luz em atraso e Tarifa Social, com base de conhecimento em JSON, histórico de atendimentos, indicadores e exportação em CSV.
+`Python` `POO` `JSON` `CSV`
+
+**[Mission Control AI](https://github.com/Matheusbg1903/mission-control-ia)** · Global Solution 2026.1, grupo de 3
 Monitoramento de um satélite de telecomunicações, com detecção de anomalias e análise do estado da missão por um modelo de linguagem. Atuei em todas as frentes: Python, integração com o LLM, interface e lógica da aplicação.
 `Python` `API de LLM` `Rich`
 
-**[SERS – Monitoramento Energético Espacial](https://github.com/Matheusbg1903/GS2026_Monitoramento_Espacial)** · Global Solution
+**[SERS – Monitoramento Energético Espacial](https://github.com/Matheusbg1903/GS2026_Monitoramento_Espacial)** · Global Solution 2026.1
 Programa em C que monitora os módulos energéticos de uma nave experimental, com alertas e histórico de leituras.
 `C`
 
@@ -34,8 +39,8 @@ Programa em C que monitora os módulos energéticos de uma nave experimental, co
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 
-Estudando agora: fundamentos de computação (CS50x), Python e matemática.
-Próximos passos: SQL, modelagem de dados e estatística, rumo a Engenharia de Dados.
+**Estudando agora:** fundamentos de computação (CS50x), Python, SQL e matemática.
+**Próximos passos:** PostgreSQL, APIs com FastAPI, pandas e estatística, e depois pipelines de dados, rumo a Engenharia de Dados e IA aplicada.
 
 ## Contato
 
